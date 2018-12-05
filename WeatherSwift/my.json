@@ -1,0 +1,18 @@
+"forecast": {
+    "forecastday": [
+                    {
+                    "day": {
+                    "maxtemp_c": 11.8,
+                    "mintemp_c": 7.2,
+                    "avgtemp_c": 9.9,
+                    "condition": {
+                    "text": "Patchy light drizzle"
+                    }
+                    },
+                    "astro": {
+                    "sunrise": "08:27 AM",
+                    "sunset": "04:55 PM"
+                    }
+                    }
+                    ]
+}
